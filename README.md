@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yuvraj Kumar Mahato</h1>
-<h3 align="center">A Learner, Programmer and Developer from Nepal🇳🇵♥️.</h3>
+<h3 align="center">A Learner, Programmer and Developer from Nepal🇳🇵.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvraj333&label=Profile%20views&color=0e75b6&style=flat" alt="yuvraj333" /> </p>
 

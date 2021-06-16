@@ -1,3 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+</head>
+<body>
 <h1 align="center">Hi 👋, I'm Yuvraj Kumar Mahato</h1>
 <h3 align="center">A Learner, Programmer and Developer from Nepal 🇳🇵.</h3>
 
@@ -29,3 +37,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yuvraj333&show_icons=true&locale=en" alt="yuvraj333" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yuvraj333&" alt="yuvraj333" /></p>
+  </body>
+</html>

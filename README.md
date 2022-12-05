@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yuvraj333" alt="yuvraj333" /></a> </p>
 
-- 🔭 I’m currently working on **Online Examination System.**
+<!-- 🔭 I’m currently working on **Online Examination System.** -->
 
 - 👯 I’m looking to collaborate on **Python and AI related project.**
 

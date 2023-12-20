@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **yuvrajkumarmahato@gmail.com**
 
-- ⚡ Fun fact **I think, I'm funny with code and someone.**
+- ⚡ Fun fact **I think, I'm funny with code and someone too 😁.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -8,17 +8,14 @@
 <body>
     <h1 align="center">Hi 👋, I'm Yuvraj Kumar Mahato</h1>
     <h3 align="center">A Learner, Programmer, and Developer from Nepal 🇳🇵</h3>
-
     <p align="center">
         <img src="https://komarev.com/ghpvc/?username=yuvraj333&label=Profile%20views&color=0e75b6&style=flat" alt="yuvraj333" />
     </p>
-
     <p align="center">
         <a href="https://github.com/ryo-ma/github-profile-trophy">
             <img src="https://github-profile-trophy.vercel.app/?username=yuvraj333" alt="yuvraj333" />
         </a>
     </p>
-
     <ul>
         <!-- Uncomment the line below if you are currently working on the project -->
         <!-- <li>🔭 I’m currently working on <strong>Online Examination System.</strong></li> -->
@@ -26,7 +23,6 @@
         <li>📫 How to reach me: <a href="mailto:yuvrajkumarmahato@gmail.com">yuvrajkumarmahato@gmail.com</a></li>
         <li>⚡ Fun fact: <em>I think I'm funny with code and someone too 😁.</em></li>
     </ul>
-
     <h3 align="left">Connect with me:</h3>
     <p align="left">
         <a href="https://twitter.com/yuvrajkumarmah5" target="_blank">
@@ -42,7 +38,6 @@
             <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yuvrajkushwaha90" height="30" width="40" />
         </a>
     </p>
-
     <h3 align="left">Languages and Tools:</h3>
     <p align="left">
         <a href="https://angular.io" target="_blank">
@@ -112,15 +107,12 @@
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
         </a>
     </p>
-
     <p align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yuvraj333&show_icons=true&locale=en&layout=compact" alt="yuvraj333" />
     </p>
-
     <p align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=yuvraj333&show_icons=true&locale=en&rank_icon=github&theme=transparent&include_all_commits=true&count_private=true&rank_icon=github" alt="yuvraj333" />
     </p>
-
     <p align="center">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuvraj333" alt="yuvraj333" />
     </p>

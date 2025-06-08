@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="linkedin.com/in/yuvraj-kumar-mahato-14ab871b3">
+  <a href="https://www.linkedin.com/in/yuvraj-kumar-mahato-14ab871b3/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:yuvrajkumarmahato@gmail.com">

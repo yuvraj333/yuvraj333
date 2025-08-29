@@ -1,7 +1,9 @@
 <div align="center">
   
   <!-- Header Section -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=20C20E&center=true&vCenter=true&width=500&lines=Yuvraj+Kumar+Mahato;Computer+Engineer;AI+%26+ML+Research+Enthusiast;AI+Software+Engineer" alt="Typing Animation" />
+  <h1>Er. Yuvraj Kumar Mahato</h1>
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=20C20E&center=true&vCenter=true&width=500&lines=Computer+Engineer;AI+%26+ML+Research+Enthusiast;AI+Software+Engineer" alt="Typing Animation" />
   
   <h3>📍 Kathmandu, Nepal 🇳🇵</h3>
   
@@ -55,31 +57,6 @@
   <li><strong>Cybersecurity and AI for Secure Systems & Networks</strong></li>
   <li><strong>AI for Signal Processing, IoT, and Autonomous Systems</strong></li>
   <li><strong>Explainable and Responsible AI</strong></li>
-</ul>
-
-<!-- Experience -->
-<h2>💼 Experience</h2>
-
-<h3>AI Software Engineer</h3>
-<p><strong>Yougle Tech (Startup)</strong> | Jul 2024 – Present</p>
-<ul>
-  <li>Led the design and deployment of AI-driven full-stack platforms using FastAPI, Django, React, and OpenAI APIs</li>
-  <li>Implemented AI solutions that enhanced user engagement and reduced manual workflow</li>
-  <li>Researched and assessed multiple AI tools monthly to optimize intelligent web platforms</li>
-</ul>
-
-<h3>Python Developer – AI & Backend Focus</h3>
-<p><strong>Amnil Technologies, Lalitpur</strong> | Jan 2024 – Jul 2024</p>
-<ul>
-  <li>Developed backend logic and REST APIs using Django/Flask</li>
-  <li>Managed MySQL/PostgreSQL databases and Dockerized applications</li>
-  <li>Collaborated on AI model integration and deployment</li>
-</ul>
-
-<h3>Software Developer (Freelancer)</h3>
-<p><strong>Remote</strong> | Aug 2020 – Oct 2023</p>
-<ul>
-  <li>Designed and developed AI-powered and full-stack web/mobile applications</li>
 </ul>
 
 <!-- Tech Stack -->
